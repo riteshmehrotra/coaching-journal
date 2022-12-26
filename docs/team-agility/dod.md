@@ -1,3 +1,13 @@
+---
+
+layout: default
+title: Team maturity
+nav_order: 2
+permalink: /docs/team-agility
+
+---
+
+
 # An important factor teams miss in agile maturity quest
 
 Here is a short quiz. Which of the team below is best equipped to drive continuous improvements in its ways of working?
