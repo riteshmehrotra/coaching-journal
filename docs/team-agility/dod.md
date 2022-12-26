@@ -2,8 +2,9 @@
 
 layout: default
 title: Team maturity
-nav_order: 2
-permalink: /docs/team-agility
+nav_order: 3
+parent: Team agility
+permalink: /docs/team-agility/dod
 
 ---
 
