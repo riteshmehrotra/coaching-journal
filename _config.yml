@@ -3,3 +3,6 @@ description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
 url: https:/riteshmehrotra.github.io/coaching-journal
+
+
+nav_sort: case_sensitive
