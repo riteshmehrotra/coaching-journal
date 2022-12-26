@@ -3,7 +3,7 @@
 layout: default
 title: Team agility
 nav_order: 2
-description: "None"
+has_children: 1
 permalink: /docs/team-agility
 ---
 
