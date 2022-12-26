@@ -94,7 +94,7 @@ Here is a short example to illustrate.
 
 | **Today**                                      | **After 3 months**                             | **After a year**                               | **Beyond** |
 |:-----------------------------------------------|:-----------------------------------------------|:-----------------------------------------------|:-----------|
-| &check; All acceptance tests passed            | &check; All acceptance tests passed            | &check; All acceptance tests passed            | ....       |          |
+| [] All acceptance tests passed            | &check; All acceptance tests passed            | &check; All acceptance tests passed            | ....       |          |
 | &check; Code peer reviewed / pair programmed   | &check; Code peer reviewed / pair programmed   | &check; Code peer reviewed / pair programmed   |            |
 | &check; Tested in Production clone environment | &check; Security tests passed                  | &check; Security tests passed                  ||
 | &check; Functionality reviewed by business/PO  | &check; Tested in Production clone environment | &check; Tested in Production clone environment || 
