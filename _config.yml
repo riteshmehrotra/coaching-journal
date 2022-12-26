@@ -8,3 +8,7 @@ url: https:/riteshmehrotra.github.io/coaching-journal
 nav_sort: case_sensitive
 
 search_enabled: true
+
+layout: default
+title: Team Agility
+has_children: true
