@@ -11,3 +11,7 @@ search_enabled: true
 
 layout: default
 has_children: true
+
+
+plugins:
+  - jemoji
