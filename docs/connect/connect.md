@@ -7,6 +7,6 @@ permalink: /docs/connect
 
 # Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/ritesh-mehrotra/)
+- <a href="https://www.linkedin.com/in/ritesh-mehrotra/" target="_blank">LinkedIn</a>
 
-- [Join the TechTalks community](https://www.meetup.com/techtalkssg/)
+- <a href="https://www.meetup.com/techtalkssg/" target="_blank">Join the TechTalks community</a>
