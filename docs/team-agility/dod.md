@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The agile maturity quest
+title: DoD - Team maturity factor
 nav_order: 1
 parent: Team agility
 ---
@@ -38,8 +38,7 @@ by # of defects per release. The measure can certainly help to focus on quality.
 engineering practices of automated testing, pair programming and reviews, such measures tend to drag development,
 testing and review cycles, impacting team’s ability to deliver quickly.
 
-**Cycle time** is a useful measure to understand the time it takes to get something done. When complemented with **
-Throughput** (units of work completed for a given period), it can provide good insights into team’s effectiveness. But
+**Cycle time** is a useful measure to understand the time it takes to get something done. When complemented with **Throughput** (units of work completed for a given period), it can provide good insights into team’s effectiveness. But
 wait, what exactly is **done** here? I have seen the interpretation of **done** varies from team to team. For example
 
 - Some teams measure cycle time from time development starts to UAT completed.
