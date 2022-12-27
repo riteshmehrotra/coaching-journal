@@ -8,8 +8,9 @@ parent: Team agility
 # Technical Debt — How to Identify, manage and minimise?
 
 
-**Technical debt** is a metaphor to represent an act of borrowing when developers choose to make certain design decisions in current circumstances to attain quick validation of assumptions/ideas with low fidelity solutions, and hence borrowing time in exchange of certain quality attributes.
-These design decisions, when not aligned with evolving product understanding in future, may negatively impact quality of product and productivity of team. This term was coined by Ward Cunninghum and inspired from the concept of financial debt.
+**Technical debt** is a metaphor to represent an act of borrowing when developers choose to make certain design decisions in current circumstances to attain quick validation of assumptions/ideas with low fidelity solutions, and hence borrowing time in the exchange of certain quality attributes.
+These design decisions, when not aligned with evolving product understanding in the future, may negatively impact quality of product and productivity of team. This term was coined by **Ward Cunninghum** and inspired from the concept of financial debt.
+
 In this story, I want to share some experiences on the causes, identifiers, and techniques for managing and minimising the technical debt.
 
 
@@ -32,7 +33,7 @@ Examples
 
 ## So, I know that I borrowed, what if I don’t pay back?
 
-
+![img_1.png](img_1.png)
 
 
 Technical debt as acquired, directly impacts the code quality. If paid back, it improves the quality. The longer technical debt is kept unattended, the more interest team may end up paying as
@@ -47,12 +48,10 @@ In essence, if team doesn’t pay back technical debt in principal, what it pays
 
 
 ## How to manage technical debt?
-1. If you are using an issue tracker like JIRA, keep a dedicated epic for Technical debt
-2. For each known technical debt, add an issue to this epic
-3. Add a due date for paying back the technical debt — A date after which, if unpaid, the debt is likely to hurt the product design, quality and team performance
-4. Allocate certain capacity per sprint to address technical debt and improving design
-5. Keep a threshold for technical debt to ensure that it does not exceed a certain number to ensure quality standards of product.
-6. Don’t acquire new debt if you have already reached a threshold for your technical debt.
+1. Add a due date for paying back the technical debt — A date after which, if unpaid, the debt is likely to hurt the product design, quality and team performance
+2. Allocate certain capacity per sprint to address technical debt and improving design
+3. Keep a threshold for technical debt to ensure that it does not exceed a certain number to ensure quality standards of product.
+4. Don’t acquire new debt if you have already reached a threshold for your technical debt.
 
 
 
