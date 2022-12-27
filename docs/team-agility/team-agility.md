@@ -7,6 +7,6 @@ permalink: /docs/team-agility
 ---
 
 Team agility home page
-
+1. TOC
 {:toc}
 
