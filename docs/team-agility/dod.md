@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Team maturity
+title: The agile maturity quest
 nav_order: 1
 parent: Team agility
 ---
