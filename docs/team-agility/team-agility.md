@@ -6,7 +6,5 @@ has_children: 3
 permalink: /docs/team-agility
 ---
 
-Team agility home page
-1. TOC
-{:toc}
+Team agility home page {: .fs-6 .fw-300 }
 
