@@ -2,9 +2,10 @@
 layout: default
 title: Team agility
 nav_order: 2
-has_children: 1
+has_children: 3
 permalink: /docs/team-agility
 ---
 
+:toc
 
 Team agility home page
