@@ -16,7 +16,7 @@ Here is a short quiz. Which of the team below is best equipped to drive continuo
 - Team C measures Cycle time for each unit of work from start to end. And improving this cycle time is their measure of
   improvement.
 
-![img.png](img.png)
+![img.png](assets/img.png)
 
 In my own experience, I have seen majority of teams follow Team A’s approach. Some others who use a combination of Team
 A and Team B approach, and very few who take Team C’s approach.

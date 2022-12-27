@@ -14,4 +14,4 @@ Don't let it reach a point where you don't even recognise your own code.
 
 Test first!
 
-![img_2.png](img_2.png)
+![img_2.png](assets/img_2.png)

@@ -33,7 +33,7 @@ Examples
 
 ## So, I know that I borrowed, what if I don’t pay back?
 
-![img_1.png](img_1.png)
+![img_1.png](assets/img_1.png)
 
 
 Technical debt as acquired, directly impacts the code quality. If paid back, it improves the quality. The longer technical debt is kept unattended, the more interest team may end up paying as
