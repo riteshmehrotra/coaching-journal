@@ -6,12 +6,19 @@ description: "No desc"
 permalink: /
 ---
 
+# Introduction
 
-Hi, I am Ritesh Mehrotra.
+Hello! My name is **Ritesh Mehrotra**. I am an Enterprise and Technical agility practitioner and coach. 
 
-I coach and mentor software development teams on software design, architecture and best practices for agile software development with customer centricity as primary focus.
+This journal is an aggregation of my work and experience working in various roles as Software Developer, Tech Consultant and coach with different organizations.
 
-I am a keen contributor on agile transformation initiatives. I help teams in my wider organization with their agile transformation journey, which includes workshops on Scrum, Kanban to DevOps and development practices inclusive of TDD, pair programming and refactoring.
+I offer coaching and mentoring services in following areas
+- Organizational agility: Culture and skill building, Coaching and facilitation skills
+- Product agility: Product discovery, Customer centricity, Development and delivery management
+- Technical agility: Software design, Quality, DevOps and best development practices 
 
-I am a strong follower of XP development practices, which inspire me to be a disciplined contributor. The quest of continuous and collaborative learning, led me to create a knowledge sharing platform in form of a meetup group named TechTalks (https://www.meetup.com/techtalkssg/). Apart from being a rich knowledge sharing platform, TechTalks serves as a networking ground for entrepreneurs, professionals and tech enthusiasts to meet and exchange ideas.
+I am a keen contributor on agile transformation initiatives.
 
+As a strong believer in community driven growth with collaborative learning, 
+I host a community for technology enthusiasts named <a target="_blank" href="https://www.meetup.com/techtalkssg/">TechTalks</a>, which is a knowledge sharing platform on Meetup. 
+Apart from being a rich knowledge sharing platform, TechTalks serves as a networking ground for entrepreneurs, professionals and tech enthusiasts to meet and exchange ideas.
