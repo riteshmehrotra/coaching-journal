@@ -21,3 +21,15 @@ description: "No desc"
 
 ### License not renewed
 <img src="assets/cert_mark_SPC_badge.png" width="20%" height="20%"/>
+
+
+# Affiliations
+
+## Employment affiliations
+<img src="assets/Singapore_Airlines_Logo_2.svg.png" width="20%" height="20%"/>
+<img src="assets/Credit-Suisse-logo.png" width="20%" height="20%"/>
+<img src="assets/Fiserv_logo.svg.png" width="20%" height="20%"/>
+
+
+## Community affiliations
+<img src="assets/logo-2.svg" width="20%" height="20%"/>
