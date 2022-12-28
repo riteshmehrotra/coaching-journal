@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DoD - Team maturity factor
+title: Agile team maturity quest
 nav_order: 1
 parent: Team agility
 ---
