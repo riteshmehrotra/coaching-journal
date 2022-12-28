@@ -13,9 +13,12 @@ Hello! My name is **Ritesh Mehrotra**. I am an Enterprise and Technical agility 
 This journal is an aggregation of my work and experience working in various roles as Software Developer, Tech Consultant and coach with different organizations.
 
 I offer coaching and mentoring services in following areas
-- Organizational agility: Culture and skill building, Coaching and facilitation skills
-- Product agility: Product discovery, Customer centricity, Development and delivery management
-- Technical agility: Software design, Quality, DevOps and best development practices 
+- **Organizational agility** : Organizational cultivation culture building, Coaching and facilitation skills for leadership
+- **Product agility** : Product discovery, Customer centricity, Development and delivery management
+- **Team agility** : Team dynamics, effectiveness and continuous improvements with ways of working
+- **Software craftsmanship** : Software design, Quality, DevOps and best development practices 
+
+These offering are in the form of trainings, coaching engagements and bootcamps.
 
 I am a keen contributor on agile transformation initiatives.
 
