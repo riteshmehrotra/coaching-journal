@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Glossary
+title: Accreditations
 nav_order: 4
 description: "No desc"
 ---
 
 # Accreditations
-<img src="assets/Authorized Instructor.png" width="40%" height="40%"/>
+<img src="assets/Authorized Instructor.png" width="35%" height="35%"/>
 <img src="assets/ICP-APM.png" width="35%" height="35%"/>
 <img src="assets/ICP-APO.png" width="35%" height="35%"/>
 <img src="assets/ICP-ATF.png" width="35%" height="35%"/>
