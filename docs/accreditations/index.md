@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Accreditations
-nav_order: 4
+title: Accreditations and affiliations
+nav_order: 5
 description: "No desc"
 ---
 
