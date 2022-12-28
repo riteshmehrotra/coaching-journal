@@ -91,16 +91,16 @@ DoD should be updated to respond to these emerging quality concerns of the produ
 Here is a short example to illustrate.
 
 
-| **Today**                                      | **After 3 months**                             | **After a year**                               | **Beyond** |
-|:-----------------------------------------------|:-----------------------------------------------|:-----------------------------------------------|:-----------|
-| &check; All acceptance tests passed            | &check; All acceptance tests passed            | &check; All acceptance tests passed            | ....       |          
-| &check; Code peer reviewed / pair programmed   | &check; Code peer reviewed / pair programmed   | &check; Code peer reviewed / pair programmed   |            |
-| &check; Tested in Production clone environment | &check; Security tests passed                  | &check; Security tests passed                  ||
-| &check; Functionality reviewed by business/PO  | &check; Tested in Production clone environment | &check; Tested in Production clone environment || 
-|                                                | &check; Functionality reviewed by business/PO  | &check; Functionality reviewed by business/PO  ||
-|                                                | &check; Documentation updated (as applicable)  | &check;Documentation updated (as applicable)   ||
-|                                                |                                                | &check; Deployed in Production                 | 
-|                                                |                                                | &check; Post deployment verification completed |            |
+| **Today**                                                 | **After 3 months**                             | **After a year**                               | **Beyond** |
+|:----------------------------------------------------------|:-----------------------------------------------|:-----------------------------------------------|:-----------|
+| :white_check_mark: All acceptance tests passed            | &check; All acceptance tests passed            | &check; All acceptance tests passed            | ....       |          
+| :white_check_mark: Code peer reviewed / pair programmed   | &check; Code peer reviewed / pair programmed   | &check; Code peer reviewed / pair programmed   |            |
+| :white_check_mark: Tested in Production clone environment | &check; Security tests passed                  | &check; Security tests passed                  ||
+| :white_check_mark: Functionality reviewed by business/PO  | &check; Tested in Production clone environment | &check; Tested in Production clone environment || 
+|                                                           | &check; Functionality reviewed by business/PO  | &check; Functionality reviewed by business/PO  ||
+|                                                           | &check; Documentation updated (as applicable)  | &check;Documentation updated (as applicable)   ||
+|                                                           |                                                | &check; Deployed in Production                 | 
+|                                                           |                                                | &check; Post deployment verification completed |            |
 
 The DoD is a living standard that guides team towards maturity. And a well understood and well practised DoD makes your
 measurements more authentic.
