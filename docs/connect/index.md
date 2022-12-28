@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Connect with me
-nav_order: 4
+nav_order: 5
 permalink: /docs/connect
 ---
 
