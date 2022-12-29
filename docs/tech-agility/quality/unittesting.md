@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Understanding Unit testing
-parent: Quality
+parent: Software quality
+grand_parent: Technical agility
 nav_order: 1
 ---
 
