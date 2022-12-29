@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Understanding Unit testing
-parent: Quality
+parent: Technical agility
 ---
 
 
