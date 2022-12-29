@@ -3,6 +3,7 @@ layout: default
 title: Managing technical debt
 nav_order: 1
 parent: Team agility
+has_toc: true
 ---
 
 # Technical Debt — How to Identify, manage and minimise?
