@@ -22,7 +22,7 @@ Any unit of work improves the product for its consumers, either directly or indi
 
 ## A model to think value of everything
  
-I find <a href="https://en.wikipedia.org/wiki/FURPS">FURPS+</a> as a useful reference to categorise the work.
+I find <a href="https://en.wikipedia.org/wiki/FURPS" target="_blank">FURPS+</a> as a useful reference to categorise the work.
 	
 - Enhances the product capability i.e. functionality (F)
 - Improves the product usability i.e. User experience (U)
