@@ -6,8 +6,6 @@ parent: Team agility
 has_toc: true
 ---
 
-<meta property="og:title"              content="When Great Minds Don’t Think Alike" />
-<meta property="og:description"        content="How much does culture influence creative thinking?" />
 
 # There are no "Technical stories"!
 
