@@ -1,3 +1,11 @@
+---
+layout: default
+title: There are no "Technical stories"
+nav_order: 4
+parent: Team agility
+has_toc: true
+---
+
 # There are no "Technical stories"!
 
 A prevailing anti-pattern in the industry is the use of "Technical stories" or work that cannot be defined as "functional". Such work typically revolve around security, infrastructure, technical debt, migration activities, and anything that the team considers more technical than what the business can comprehend.
