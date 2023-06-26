@@ -40,8 +40,7 @@ Here are a few examples of why your current technical work can be viewed through
 | :-------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Add SSL certificate to web application              | To ensure user information is secure in transition through SSL security                                                                                                       |
 | Onboard application on continuous delivery pipeline | Ability to quickly deliver quality product while minimizing manual errors                                                                                                     |
-| Migrate app to cloud                                | There could be multiple reasons to move to cloud. Identify yours<br/> (E.g. Scaling to support 1 mil concurrent users or, <br/> Manage cost through a flexible costing model) |  |
-|                                                     |                                                                                                                                                                               |
+| Migrate app to cloud                                | There could be multiple reasons to move to cloud. Identify yours<br/> (E.g. Scaling to support 1 mil concurrent users or, <br/> Manage cost through a flexible costing model) |                            
 
 
 
