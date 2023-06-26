@@ -19,6 +19,8 @@ If something is not understandable to the business, it cannot be prioritized fai
 Its important to understand and illustrate the value of work in a common language that can help drive decisions.
 
 Any unit of work improves the product for its consumers, either directly or indirectly, is valuable and can be quantified.
+
+## A model to think value of everything
  
 I find <a href="https://en.wikipedia.org/wiki/FURPS">FURPS+</a> as a useful reference to categorise the work.
 	
@@ -29,15 +31,20 @@ I find <a href="https://en.wikipedia.org/wiki/FURPS">FURPS+</a> as a useful refe
 - And the internal quality of the product i.e. Supportability (S)
 - Other considerations: Security, Observability and Tracebility, Ability to continuously integrate and deploy
 	
+However, what is important is being hyper-aware of the impact that technical work creates on the product and customer, and to state that explicitly.
 
-Here are a few examples of why your current technical stories are actually business stories with value
+
+Here are a few examples of why your current technical work can be viewed with customer-centric lens.
  
-| ***Technical work*** | ***Business story*** |
+| ***Technical work*** | ***Describe in terms of business value*** |
 |:----------------------|:---------------------|
-| Add SSL certificate to web application  |  We want to ensure user information is secure in transition through SSL security |
+| Add SSL certificate to web application  |  To ensure user information is secure in transition through SSL security |
 | Onboard application on continuous delivery pipeline | Ability to quickly deliver quality product while minimizing manual errors  |
-| Migrate app to cloud |  There could be multiple reasons to move to cloud. Which one is yours?  ( Scale product to support 1 mil concurrent users, Reduce product cost through a flexible costing model, Improve availability of the product through on cloud backup and disaster recovery mechanisms ) |
+| Migrate app to cloud |  There could be multiple reasons to move to cloud. Identify yours (Eg. Scaling to support 1 mil concurrent users, Reduce product cost through a flexible costing model, Improve availability of the product through on-cloud backup and disaster recovery mechanisms ) |
 | | |
+
+
+
 
 
 
