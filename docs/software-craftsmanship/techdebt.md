@@ -2,7 +2,7 @@
 layout: default
 title: Managing technical debt
 nav_order: 1
-parent: Team agility
+parent: Software Craftsmanship
 has_toc: true
 ---
 
