@@ -6,12 +6,14 @@ parent: Software craftsmanship
 has_toc: true
 ---
 
-# Not Tech Debt.. that's irresponsible software development
+# Postponing quality is not Techincal debt. its's irresponsible software development
 
 
-*"We know we have technical debt. We have quality related issues in our backlog and will pick as soon as we have some bandwidth"* 
+*"We know we have technical debt. We have added quality related items in our backlog and will pick as soon as we have some bandwidth"* 
 
-I have been told this numerous times.
+I have heard this numerous times. Be it the lack of automated unit tests, legacy code slowing down development or inability to continuously integrate and deliver.
+
+
 
 ## Some popular reasons, and why they don't make sense
  
