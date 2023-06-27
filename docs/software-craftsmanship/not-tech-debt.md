@@ -6,18 +6,24 @@ parent: Software craftsmanship
 has_toc: true
 ---
 
-# Not Tech Debt.. that's irresposnbile software development
+# Not Tech Debt.. that's irresponsible software development
 
 
+*"We know we have technical debt. We have quality related issues in our backlog and will pick as soon as we have some bandwidth"* 
+
+I have been told this numerous times.
+
+## Some popular reasons, and why they don't make sense
  
 ### But we are just doing a PoC
 <>
-### We will do unit testing later
-<>
+### We take care of quality post development
+
+Quality later delays customer's right to delivery by leaving potential bugs to be discovered later and its a disservice to the investers.
 ### Our focus is delivery right now, we will improve design later
-<>
-### We do extensive regression testing
-<>
+
+Substandard code that makes maintainance harder
+
 
 
 
