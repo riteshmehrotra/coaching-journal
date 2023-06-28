@@ -6,23 +6,25 @@ parent: Software craftsmanship
 has_toc: true
 ---
 
-# Postponing quality is not Techincal debt. its's irresponsible software development
+# Not Techincal debt.. that's irresponsible software development
 
 
-*"We know we have technical debt. We have added quality related items in our backlog and will pick as soon as we have some bandwidth"* 
+*"Yeah, we know we have technical debt. We have added a dedicated epic in our backlog for quality related items and will pick as soon as we have some bandwidth from business deliverables"* 
 
-I have heard this numerous times. Be it the lack of automated unit tests, legacy code slowing down development or inability to continuously integrate and deliver.
+Be it the lack of automated testing, code maintainability issues or team's inability to continuously integrate and deliver. "We will do it later" -  is a common response I get to hear often.
 
 
 
-## Some popular reasons, and why they don't make sense
+## Some popular "buts", and why they don't make sense
  
-### But we are just doing a PoC
-<>
-### We take care of quality post development
+### But, we just started this as a PoC for this new platform/technology
+
+Why shouldn't a techical evalution involve how quality will be handled?
+  
+### But, we take care of quality post development
 
 Quality later delays customer's right to delivery by leaving potential bugs to be discovered later and its a disservice to the investers.
-### Our focus is delivery right now, we will improve design later
+### But, our focus is delivery right now, we will improve design later
 
 Substandard code that makes maintainance harder
 
