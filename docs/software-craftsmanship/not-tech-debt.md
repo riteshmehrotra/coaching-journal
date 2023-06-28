@@ -28,7 +28,7 @@ Quality later delays customer's right to delivery by leaving potential bugs to b
 
 Substandard code that makes maintainance harder
 
-
+### But, we inherited this legacy codebase
 
 
 
