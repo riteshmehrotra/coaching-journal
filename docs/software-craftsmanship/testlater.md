@@ -2,7 +2,7 @@
 layout: default
 title: Test later trap
 nav_order: 3
-parent: Team agility
+parent: Software craftsmanship
 ---
 
 
@@ -14,4 +14,4 @@ Don't let it reach a point where you don't even recognise your own code.
 
 Test first!
 
-![img_2.png](assets/img_2.png)
+![Test Later](assets/test_later.png)

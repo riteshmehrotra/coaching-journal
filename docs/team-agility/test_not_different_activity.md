@@ -1,0 +1,1 @@
+Add unit/regression tests | Not applicable and huge anti-pattern. Just do it as you go. The PO is not supposed to prioritise such activities as they are meant to be integral part of development. Estimate your work inclusive of quality concerns. Quality should not be an after-thought and bulk activity.
