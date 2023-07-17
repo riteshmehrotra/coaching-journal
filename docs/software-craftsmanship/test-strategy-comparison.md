@@ -8,6 +8,8 @@ has_toc: true
 
 # Test strategy comparison
 
+If E2E regression is important, Unit testing is critical for ensure the quality of software. Don't wait to do it later. Test first!
+ 
 
 | **Characteristics** | **Unit tests**    | **E2E tests**        |
 | ------------------- | ----------------- | -------------------- |
