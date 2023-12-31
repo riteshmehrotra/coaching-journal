@@ -10,6 +10,8 @@ has_toc: true
 
 | **Use case**                                     | **Command**                                    | **Notes**                                                                       |
 |--------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------|
+| **Initiating Git**                               ||
+| Initiate a new git repository                    | `git init`                                     | Creates a default master branch and associates it with repository               |
 | **Status**                                       |                                                |
 | Get current branch status                        | `git status`                                   | Reports branch status against origin, staged or modified files                  |
 | **Stage/Unstage modified files**                 ||
