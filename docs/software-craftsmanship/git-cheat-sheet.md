@@ -30,3 +30,6 @@ has_toc: true
 | Fetch from remote branch                         | `git fetch`                                    | Fetches data from remote server, but doesn't merge with any local modifications |
 | Fetch and automatically merge with remote branch | `git pull`                                     |                                                                                 |
 | Push to remote branch                            | `git push <remote_name> <branch_name>`         |                                                                                 |
+| Rename a remote branch                           | `git remote rename <current_name> <new_name>`  |                                                                                 |
+| Remove a remote branch                           | `git remote remove <branch_name>`              |                                                                                 |
+| **Branching**                                    |                                                |                                                                                 |
