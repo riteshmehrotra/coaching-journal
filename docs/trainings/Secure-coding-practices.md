@@ -38,35 +38,34 @@ Developers, Software Engineers, and anyone involved in the software development 
 
 **11:00 AM - 11:15 AM: Morning Break**
 
-**11:15 AM - 12:30 PM: Security Landscape and Challenges**
-- Current security threats and landscape.
+**11:15 AM - 12:30 PM: OWASP Top 10 Risks and Impacts**
+- Overview of OWASP (Open Web Application Security Project).
+- In-depth analysis of current OWASP Top 10 risks and their impacts.
 - Challenges in maintaining security in software development.
 
 **12:30 PM - 1:30 PM: Lunch Break**
 
-**1:30 PM - 2:30 PM: OWASP Top 10 Risks and Impacts**
-- Overview of OWASP (Open Web Application Security Project).
-- In-depth analysis of current OWASP Top 10 risks and their impacts.
 
-**2:30 PM - 3:30 PM: Embedding Secure Coding in Software Design**
+**1:30 PM - 2:30 PM: Embedding Secure Coding in Software Design**
 - Integrating security into the software development lifecycle.
 - Secure design principles and methodologies.
 
-**3:30 PM - 3:45 PM: Afternoon Break**
-
-**3:45 PM - 4:45 PM: Input Validation and Output Encoding**
+**2:30 PM - 3:30 PM: Input Validation and Output Encoding**
 - Best practices for input validation.
 - Implementing output encoding to prevent injection attacks.
 
-**4:45 PM - 5:45 PM: Authentication and Authorization**
+**3:30 PM - 3:45 PM: Afternoon Break**
+
+
+**3:45 PM - 4:15 PM: Authentication and Authorization**
 - Ensuring secure user authentication.
 - Implementing robust authorization mechanisms.
 
-**5:45 PM - 6:00 PM: Data Protection and Secure Communications**
+**4:15 PM - 4:45 PM: Data Protection and Secure Communications**
 - Best practices for data protection.
 - Implementing secure communication channels.
 
-**6:00 PM - 6:15 PM: Q&A and Closing Remarks**
+**4:45 PM - 5:00 PM: Q&A and Closing Remarks**
 - Addressing participant questions.
 - Providing additional resources for further learning.
 
