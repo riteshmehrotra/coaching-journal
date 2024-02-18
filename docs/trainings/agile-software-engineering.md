@@ -5,7 +5,7 @@ nav_order: 2
 parent: Trainings
 ---
 
-### Title: Agile Software Engineering Workshop
+### Agile Software Engineering Workshop
 
 ### Duration: Two Days
 
