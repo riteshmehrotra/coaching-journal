@@ -67,7 +67,7 @@ Software Developers, Engineers, Project Managers, and IT Professionals intereste
 
 ### Methodology:
 
-- **Interactive Workshops:** Hands-on exercises and group discussions.
+- **Interactive learning:** Hands-on exercises and group discussions.
 - **Case Studies:** Real-world examples of organizations implementing green software practices.
 - **Group Activities:** Collaborative exercises to apply principles in real-world scenarios.
 
