@@ -5,7 +5,7 @@ nav_order: 2
 parent: Trainings
 ---
 
-### Agile Software Engineering Workshop
+## Agile Software Engineering Workshop
 
 ### Duration: Two Days
 
@@ -108,10 +108,5 @@ Throughout the workshop, participants will be engaged in hands-on coding session
 - Hands-on coding exercises.
 - Reference materials on Agile Software Engineering practices.
 - Group project scenarios.
-
-### Additional Notes:
-- Encourage open discussions and questions.
-- Foster collaboration and teamwork during group activities.
-- Provide constructive feedback during coding sessions and project presentations.
 
 This two-day workshop is designed to be interactive and immersive, allowing participants to gain practical experience in applying Agile Software Engineering practices. Adjust the agenda based on the specific needs and skill levels of the participants.

@@ -6,7 +6,7 @@ parent: Trainings
 ---
 
 
-### Secure Coding Practices Workshop
+## Secure Coding Practices Workshop
 
 ### Duration: One Day
 
